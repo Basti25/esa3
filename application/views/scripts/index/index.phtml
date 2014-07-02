@@ -1,0 +1,80 @@
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+    <h2>
+        Übung 1
+    </h2>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array('controller'=>'guestbook'),
+        'default',
+        true) ?>">Gästebuch</a>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array('controller'=>'blog'),
+        'default',
+        true) ?>">Blog</a>
+    <hr/>
+    <h2>
+        Übung 2
+    </h2>
+    <h3>
+        Eingabe
+    </h3>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'modul',
+            'action' => 'add'
+        ),
+        'default',
+        true) ?>">Modul</a>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'quellenangaben',
+            'action' => 'add'
+        ),
+        'default',
+        true) ?>">Quellenangaben</a>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'studienarbeit',
+            'action' => 'add'
+        ),
+        'default',
+        true) ?>">Studienarbeit</a>
+    <h3>
+        Ausgabe
+    </h3>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'modul',
+            'action' => 'index'
+        ),
+        'default',
+        true) ?>">Übersicht Module</a>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'modul',
+            'action' => 'single'
+        ),
+        'default',
+        true) ?>">Details eines Moduls</a>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'studienarbeit',
+            'action' => 'index'
+        ),
+        'default',
+        true) ?>">Übersicht Studienarbeiten</a>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'studienarbeit',
+            'action' => 'single'
+        ),
+        'default',
+        true) ?>">Details einer Studienarbeit</a>
+    <a class="btn btn-primary" href="<?php echo $this->url(
+        array(
+            'controller'=>'quellenangaben',
+            'action' => 'index'
+        ),
+        'default',
+        true) ?>">Übersicht aller Quellenangaben</a>
+
+</div>

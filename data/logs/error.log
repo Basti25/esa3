@@ -1,0 +1,1691 @@
+[15-Jun-2014 10:53:55 Europe/Berlin] ::> yolos
+[15-Jun-2014 10:53:56 Europe/Berlin] ::> yolos
+[15-Jun-2014 10:54:06 Europe/Berlin] ::> yolos
+[15-Jun-2014 10:54:12 Europe/Berlin] ::> yolos
+[15-Jun-2014 20:31:10 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_BlogMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/BlogController.php on line 19
+[15-Jun-2014 20:32:14 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:11 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:28 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:29 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:30 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:50 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:50 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:51 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:51 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:51 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:52 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:52 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:52 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:52 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:53 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:53 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:53 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:33:54 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:00 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:01 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:01 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:01 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:01 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:02 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:02 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:02 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:02 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:02 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:02 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:02 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:37 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:37 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:34:41 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:06 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:07 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:07 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:42 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:43 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:43 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:43 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:44 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:44 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:44 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:44 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:45 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:35:45 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13
+[15-Jun-2014 20:36:06 Europe/Berlin] PHP Fatal error:  Class 'Application_Model__Mapper_BlogMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/BlogController.php on line 19
+[21-Jun-2014 15:13:31 Europe/Berlin] Application_Model_ModulMapper::save::> Array
+(
+    [Bezeichnung] => asd
+    [Kurzbeschreibung] => 
+    [Semester] => 4
+    [Dozent] => qwr
+)
+
+[21-Jun-2014 15:14:56 Europe/Berlin] ModulController::addAction::> Array
+(
+    [bezeichnung] => asd
+    [kurzbeschreibung] => asdasd
+    [semester] => 4
+    [dozent] => qwr
+)
+
+[21-Jun-2014 15:14:56 Europe/Berlin] Application_Model_ModulMapper::save::> Array
+(
+    [Bezeichnung] => asd
+    [Kurzbeschreibung] => 
+    [Semester] => 4
+    [Dozent] => qwr
+)
+
+[21-Jun-2014 15:18:28 Europe/Berlin] Application_Model_ModulMapper::save::> Array
+(
+    [Bezeichnung] => asd
+    [Kurzbeschreibung] => asdasd
+    [Semester] => 4
+    [Dozent] => qwert
+)
+
+[21-Jun-2014 21:41:12 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => Application_Model_DbTable_Modul Object
+        (
+            [_name:protected] => Modul
+            [_definition:protected] => 
+            [_definitionConfigName:protected] => 
+            [_db:protected] => Zend_Db_Adapter_Pdo_Sqlite Object
+                (
+                    [_pdoType:protected] => sqlite
+                    [_numericDataTypes:protected] => Array
+                        (
+                            [0] => 0
+                            [1] => 1
+                            [2] => 2
+                            [INTEGER] => 1
+                            [REAL] => 2
+                        )
+
+                    [_defaultStmtClass:protected] => Zend_Db_Statement_Pdo
+                    [_config:protected] => Array
+                        (
+                            [username] => 
+                            [password] => 
+                            [dbname] => /Users/sebastianreinsch/www/esa3/application/../data/db/isp_esa3.db
+                            [charset] => 
+                            [persistent] => 
+                            [options] => Array
+                                (
+                                    [caseFolding] => 0
+                                    [autoQuoteIdentifiers] => 1
+                                    [fetchMode] => 2
+                                )
+
+                            [driver_options] => Array
+                                (
+                                )
+
+                        )
+
+                    [_fetchMode:protected] => 2
+                    [_profiler:protected] => Zend_Db_Profiler Object
+                        (
+                            [_queryProfiles:protected] => Array
+                                (
+                                )
+
+                            [_enabled:protected] => 
+                            [_filterElapsedSecs:protected] => 
+                            [_filterTypes:protected] => 
+                        )
+
+                    [_defaultProfilerClass:protected] => Zend_Db_Profiler
+                    [_connection:protected] => PDO Object
+                        (
+                        )
+
+                    [_caseFolding:protected] => 0
+                    [_autoQuoteIdentifiers:protected] => 1
+                    [_allowSerialization:protected] => 1
+                    [_autoReconnectOnUnserialize:protected] => 
+                )
+
+            [_schema:protected] => 
+            [_cols:protected] => Array
+                (
+                    [0] => idModul
+                    [1] => Bezeichnung
+                    [2] => Kurzbeschreibung
+                    [3] => Semester
+                    [4] => Dozent
+                )
+
+            [_primary:protected] => Array
+                (
+                    [1] => idModul
+                )
+
+            [_identity:protected] => 1
+            [_sequence:protected] => 1
+            [_metadata:protected] => Array
+                (
+                    [idModul] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => idModul
+                            [COLUMN_POSITION] => 1
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 1
+                            [PRIMARY_POSITION] => 1
+                            [IDENTITY] => 1
+                        )
+
+                    [Bezeichnung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Bezeichnung
+                            [COLUMN_POSITION] => 2
+                            [DATA_TYPE] => varchar
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Kurzbeschreibung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Kurzbeschreibung
+                            [COLUMN_POSITION] => 3
+                            [DATA_TYPE] => TEXT
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Semester] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Semester
+                            [COLUMN_POSITION] => 4
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Dozent] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Dozent
+                            [COLUMN_POSITION] => 5
+                            [DATA_TYPE] => VARCHAR
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                )
+
+            [_metadataCache:protected] => 
+            [_metadataCacheInClass:protected] => 1
+            [_rowClass:protected] => Zend_Db_Table_Row
+            [_rowsetClass:protected] => Zend_Db_Table_Rowset
+            [_referenceMap:protected] => Array
+                (
+                )
+
+            [_dependentTables:protected] => Array
+                (
+                )
+
+            [_defaultSource:protected] => defaultNone
+            [_defaultValues:protected] => Array
+                (
+                )
+
+        )
+
+)
+
+[21-Jun-2014 21:44:39 Europe/Berlin] Application_Model_ModulMapper::fetchAll::> ##########
+[21-Jun-2014 21:44:39 Europe/Berlin] Application_Model_ModulMapper::fetchAll::> Array
+(
+    [0] => Application_Model_Modul Object
+        (
+            [_bezeichnung:protected] => asd
+            [_kurzbeschreibung:protected] => asdasd
+            [_semester:protected] => 4
+            [_dozent:protected] => qwert
+            [_idModul:protected] => 1
+        )
+
+)
+
+[21-Jun-2014 21:44:41 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => 
+)
+
+[21-Jun-2014 21:44:59 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => 
+)
+
+[21-Jun-2014 21:45:04 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => 
+)
+
+[21-Jun-2014 21:45:04 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => 
+)
+
+[21-Jun-2014 21:46:20 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => 
+)
+
+[21-Jun-2014 21:46:44 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => 
+)
+
+[21-Jun-2014 21:47:09 Europe/Berlin] Application_Model_ModulMapper::fetchAll::> ##########
+[21-Jun-2014 21:47:09 Europe/Berlin] Application_Model_ModulMapper::fetchAll::> Array
+(
+    [0] => Application_Model_Modul Object
+        (
+            [_bezeichnung:protected] => asd
+            [_kurzbeschreibung:protected] => asdasd
+            [_semester:protected] => 4
+            [_dozent:protected] => qwert
+            [_idModul:protected] => 1
+        )
+
+)
+
+[21-Jun-2014 21:47:09 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => Application_Model_DbTable_Modul Object
+        (
+            [_name:protected] => Modul
+            [_definition:protected] => 
+            [_definitionConfigName:protected] => 
+            [_db:protected] => Zend_Db_Adapter_Pdo_Sqlite Object
+                (
+                    [_pdoType:protected] => sqlite
+                    [_numericDataTypes:protected] => Array
+                        (
+                            [0] => 0
+                            [1] => 1
+                            [2] => 2
+                            [INTEGER] => 1
+                            [REAL] => 2
+                        )
+
+                    [_defaultStmtClass:protected] => Zend_Db_Statement_Pdo
+                    [_config:protected] => Array
+                        (
+                            [username] => 
+                            [password] => 
+                            [dbname] => /Users/sebastianreinsch/www/esa3/application/../data/db/isp_esa3.db
+                            [charset] => 
+                            [persistent] => 
+                            [options] => Array
+                                (
+                                    [caseFolding] => 0
+                                    [autoQuoteIdentifiers] => 1
+                                    [fetchMode] => 2
+                                )
+
+                            [driver_options] => Array
+                                (
+                                )
+
+                        )
+
+                    [_fetchMode:protected] => 2
+                    [_profiler:protected] => Zend_Db_Profiler Object
+                        (
+                            [_queryProfiles:protected] => Array
+                                (
+                                )
+
+                            [_enabled:protected] => 
+                            [_filterElapsedSecs:protected] => 
+                            [_filterTypes:protected] => 
+                        )
+
+                    [_defaultProfilerClass:protected] => Zend_Db_Profiler
+                    [_connection:protected] => PDO Object
+                        (
+                        )
+
+                    [_caseFolding:protected] => 0
+                    [_autoQuoteIdentifiers:protected] => 1
+                    [_allowSerialization:protected] => 1
+                    [_autoReconnectOnUnserialize:protected] => 
+                )
+
+            [_schema:protected] => 
+            [_cols:protected] => Array
+                (
+                    [0] => idModul
+                    [1] => Bezeichnung
+                    [2] => Kurzbeschreibung
+                    [3] => Semester
+                    [4] => Dozent
+                )
+
+            [_primary:protected] => Array
+                (
+                    [1] => idModul
+                )
+
+            [_identity:protected] => 1
+            [_sequence:protected] => 1
+            [_metadata:protected] => Array
+                (
+                    [idModul] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => idModul
+                            [COLUMN_POSITION] => 1
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 1
+                            [PRIMARY_POSITION] => 1
+                            [IDENTITY] => 1
+                        )
+
+                    [Bezeichnung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Bezeichnung
+                            [COLUMN_POSITION] => 2
+                            [DATA_TYPE] => varchar
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Kurzbeschreibung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Kurzbeschreibung
+                            [COLUMN_POSITION] => 3
+                            [DATA_TYPE] => TEXT
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Semester] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Semester
+                            [COLUMN_POSITION] => 4
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Dozent] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Dozent
+                            [COLUMN_POSITION] => 5
+                            [DATA_TYPE] => VARCHAR
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                )
+
+            [_metadataCache:protected] => 
+            [_metadataCacheInClass:protected] => 1
+            [_rowClass:protected] => Zend_Db_Table_Row
+            [_rowsetClass:protected] => Zend_Db_Table_Rowset
+            [_referenceMap:protected] => Array
+                (
+                )
+
+            [_dependentTables:protected] => Array
+                (
+                )
+
+            [_defaultSource:protected] => defaultNone
+            [_defaultValues:protected] => Array
+                (
+                )
+
+        )
+
+)
+
+[21-Jun-2014 21:47:36 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => Application_Model_DbTable_Modul Object
+        (
+            [_name:protected] => Modul
+            [_definition:protected] => 
+            [_definitionConfigName:protected] => 
+            [_db:protected] => Zend_Db_Adapter_Pdo_Sqlite Object
+                (
+                    [_pdoType:protected] => sqlite
+                    [_numericDataTypes:protected] => Array
+                        (
+                            [0] => 0
+                            [1] => 1
+                            [2] => 2
+                            [INTEGER] => 1
+                            [REAL] => 2
+                        )
+
+                    [_defaultStmtClass:protected] => Zend_Db_Statement_Pdo
+                    [_config:protected] => Array
+                        (
+                            [username] => 
+                            [password] => 
+                            [dbname] => /Users/sebastianreinsch/www/esa3/application/../data/db/isp_esa3.db
+                            [charset] => 
+                            [persistent] => 
+                            [options] => Array
+                                (
+                                    [caseFolding] => 0
+                                    [autoQuoteIdentifiers] => 1
+                                    [fetchMode] => 2
+                                )
+
+                            [driver_options] => Array
+                                (
+                                )
+
+                        )
+
+                    [_fetchMode:protected] => 2
+                    [_profiler:protected] => Zend_Db_Profiler Object
+                        (
+                            [_queryProfiles:protected] => Array
+                                (
+                                )
+
+                            [_enabled:protected] => 
+                            [_filterElapsedSecs:protected] => 
+                            [_filterTypes:protected] => 
+                        )
+
+                    [_defaultProfilerClass:protected] => Zend_Db_Profiler
+                    [_connection:protected] => PDO Object
+                        (
+                        )
+
+                    [_caseFolding:protected] => 0
+                    [_autoQuoteIdentifiers:protected] => 1
+                    [_allowSerialization:protected] => 1
+                    [_autoReconnectOnUnserialize:protected] => 
+                )
+
+            [_schema:protected] => 
+            [_cols:protected] => Array
+                (
+                    [0] => idModul
+                    [1] => Bezeichnung
+                    [2] => Kurzbeschreibung
+                    [3] => Semester
+                    [4] => Dozent
+                )
+
+            [_primary:protected] => Array
+                (
+                    [1] => idModul
+                )
+
+            [_identity:protected] => 1
+            [_sequence:protected] => 1
+            [_metadata:protected] => Array
+                (
+                    [idModul] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => idModul
+                            [COLUMN_POSITION] => 1
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 1
+                            [PRIMARY_POSITION] => 1
+                            [IDENTITY] => 1
+                        )
+
+                    [Bezeichnung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Bezeichnung
+                            [COLUMN_POSITION] => 2
+                            [DATA_TYPE] => varchar
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Kurzbeschreibung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Kurzbeschreibung
+                            [COLUMN_POSITION] => 3
+                            [DATA_TYPE] => TEXT
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Semester] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Semester
+                            [COLUMN_POSITION] => 4
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Dozent] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Dozent
+                            [COLUMN_POSITION] => 5
+                            [DATA_TYPE] => VARCHAR
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                )
+
+            [_metadataCache:protected] => 
+            [_metadataCacheInClass:protected] => 1
+            [_rowClass:protected] => Zend_Db_Table_Row
+            [_rowsetClass:protected] => Zend_Db_Table_Rowset
+            [_referenceMap:protected] => Array
+                (
+                )
+
+            [_dependentTables:protected] => Array
+                (
+                )
+
+            [_defaultSource:protected] => defaultNone
+            [_defaultValues:protected] => Array
+                (
+                )
+
+        )
+
+)
+
+[21-Jun-2014 21:48:03 Europe/Berlin] Application_Model_ModulMapper::fetchAll::> Array
+(
+    [0] => Application_Model_Modul Object
+        (
+            [_bezeichnung:protected] => asd
+            [_kurzbeschreibung:protected] => asdasd
+            [_semester:protected] => 4
+            [_dozent:protected] => qwert
+            [_idModul:protected] => 1
+        )
+
+)
+
+[21-Jun-2014 21:48:03 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_ModulMapper Object
+(
+    [_dbTable:protected] => Application_Model_DbTable_Modul Object
+        (
+            [_name:protected] => Modul
+            [_definition:protected] => 
+            [_definitionConfigName:protected] => 
+            [_db:protected] => Zend_Db_Adapter_Pdo_Sqlite Object
+                (
+                    [_pdoType:protected] => sqlite
+                    [_numericDataTypes:protected] => Array
+                        (
+                            [0] => 0
+                            [1] => 1
+                            [2] => 2
+                            [INTEGER] => 1
+                            [REAL] => 2
+                        )
+
+                    [_defaultStmtClass:protected] => Zend_Db_Statement_Pdo
+                    [_config:protected] => Array
+                        (
+                            [username] => 
+                            [password] => 
+                            [dbname] => /Users/sebastianreinsch/www/esa3/application/../data/db/isp_esa3.db
+                            [charset] => 
+                            [persistent] => 
+                            [options] => Array
+                                (
+                                    [caseFolding] => 0
+                                    [autoQuoteIdentifiers] => 1
+                                    [fetchMode] => 2
+                                )
+
+                            [driver_options] => Array
+                                (
+                                )
+
+                        )
+
+                    [_fetchMode:protected] => 2
+                    [_profiler:protected] => Zend_Db_Profiler Object
+                        (
+                            [_queryProfiles:protected] => Array
+                                (
+                                )
+
+                            [_enabled:protected] => 
+                            [_filterElapsedSecs:protected] => 
+                            [_filterTypes:protected] => 
+                        )
+
+                    [_defaultProfilerClass:protected] => Zend_Db_Profiler
+                    [_connection:protected] => PDO Object
+                        (
+                        )
+
+                    [_caseFolding:protected] => 0
+                    [_autoQuoteIdentifiers:protected] => 1
+                    [_allowSerialization:protected] => 1
+                    [_autoReconnectOnUnserialize:protected] => 
+                )
+
+            [_schema:protected] => 
+            [_cols:protected] => Array
+                (
+                    [0] => idModul
+                    [1] => Bezeichnung
+                    [2] => Kurzbeschreibung
+                    [3] => Semester
+                    [4] => Dozent
+                )
+
+            [_primary:protected] => Array
+                (
+                    [1] => idModul
+                )
+
+            [_identity:protected] => 1
+            [_sequence:protected] => 1
+            [_metadata:protected] => Array
+                (
+                    [idModul] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => idModul
+                            [COLUMN_POSITION] => 1
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 1
+                            [PRIMARY_POSITION] => 1
+                            [IDENTITY] => 1
+                        )
+
+                    [Bezeichnung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Bezeichnung
+                            [COLUMN_POSITION] => 2
+                            [DATA_TYPE] => varchar
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Kurzbeschreibung] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Kurzbeschreibung
+                            [COLUMN_POSITION] => 3
+                            [DATA_TYPE] => TEXT
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Semester] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Semester
+                            [COLUMN_POSITION] => 4
+                            [DATA_TYPE] => INTEGER
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                    [Dozent] => Array
+                        (
+                            [SCHEMA_NAME] => 
+                            [TABLE_NAME] => Modul
+                            [COLUMN_NAME] => Dozent
+                            [COLUMN_POSITION] => 5
+                            [DATA_TYPE] => VARCHAR
+                            [DEFAULT] => 
+                            [NULLABLE] => 
+                            [LENGTH] => 255
+                            [SCALE] => 
+                            [PRECISION] => 
+                            [UNSIGNED] => 
+                            [PRIMARY] => 
+                            [PRIMARY_POSITION] => 
+                            [IDENTITY] => 
+                        )
+
+                )
+
+            [_metadataCache:protected] => 
+            [_metadataCacheInClass:protected] => 1
+            [_rowClass:protected] => Zend_Db_Table_Row
+            [_rowsetClass:protected] => Zend_Db_Table_Rowset
+            [_referenceMap:protected] => Array
+                (
+                )
+
+            [_dependentTables:protected] => Array
+                (
+                )
+
+            [_defaultSource:protected] => defaultNone
+            [_defaultValues:protected] => Array
+                (
+                )
+
+        )
+
+)
+
+[21-Jun-2014 21:48:41 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => Application_Model_Modul Object
+        (
+            [_bezeichnung:protected] => asd
+            [_kurzbeschreibung:protected] => asdasd
+            [_semester:protected] => 4
+            [_dozent:protected] => qwert
+            [_idModul:protected] => 1
+        )
+
+)
+
+[21-Jun-2014 21:51:01 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:51:17 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:51:22 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:51:25 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:52:31 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:52:34 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:52:56 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:53:00 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:53:40 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:54:00 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:54:05 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:54:48 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:54:48 Europe/Berlin] PHP Fatal error:  Call to a member function addMultiOptions() on a non-object in /Users/sebastianreinsch/www/esa3/application/forms/Studienarbeit.php on line 50
+[21-Jun-2014 21:55:16 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:55:16 Europe/Berlin] PHP Fatal error:  Call to a member function addMultiOptions() on a non-object in /Users/sebastianreinsch/www/esa3/application/forms/Studienarbeit.php on line 50
+[21-Jun-2014 21:55:22 Europe/Berlin] Application_Form_Studienarbeit::init::> Array
+(
+    [0] => asd
+)
+
+[21-Jun-2014 21:57:28 Europe/Berlin] Application_Form_Studienarbeit::init::> Application_Model_Modul Object
+(
+    [_bezeichnung:protected] => asd
+    [_kurzbeschreibung:protected] => asdasd
+    [_semester:protected] => 4
+    [_dozent:protected] => qwert
+    [_idModul:protected] => 1
+)
+
+[21-Jun-2014 22:00:06 Europe/Berlin] PHP Fatal error:  Call to a member function addMultiOption() on a non-object in /Users/sebastianreinsch/www/esa3/application/forms/Studienarbeit.php on line 46
+[22-Jun-2014 08:27:15 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_InternetquelleMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 20
+[22-Jun-2014 08:27:46 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_Mapper_InternetquelleMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 20
+[22-Jun-2014 08:31:42 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/index.phtml on line 13
+[22-Jun-2014 08:36:46 Europe/Berlin] Application_Form_Quellenangaben::init::> Application_Model_Studienarbeit Object
+(
+    [_idStudienarbeit:protected] => 1
+    [_titel:protected] => shr
+    [_gruppenmitglieder:protected] => asa daf agrehg
+    [_idModul:protected] => 1
+)
+
+[22-Jun-2014 08:44:08 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:36 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:37 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:38 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:38 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:39 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:39 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:39 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:44 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:45 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:45 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:45 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:45 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:45 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:55 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:56 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:56 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:56 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:57 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:57 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:59 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 08:45:59 Europe/Berlin] PHP Fatal error:  Call to a member function setAction() on a non-object in /Users/sebastianreinsch/www/esa3/application/views/scripts/quellenangaben/add.phtml on line 4
+[22-Jun-2014 09:56:25 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 09:56:57 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 09:59:06 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 09:59:06 Europe/Berlin] PHP Catchable fatal error:  Argument 1 passed to Application_Model_StudienarbeitMapper::save() must be an instance of Application_Model_Studienarbeit, instance of Application_Model_Internetquelle given, called in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 36 and defined in /Users/sebastianreinsch/www/esa3/application/models/StudienarbeitMapper.php on line 27
+[22-Jun-2014 09:59:25 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 09:59:25 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Internetquelle::getId() in /Users/sebastianreinsch/www/esa3/application/models/InternetquelleMapper.php on line 34
+[22-Jun-2014 10:00:17 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:00:17 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Internetquelle::getId() in /Users/sebastianreinsch/www/esa3/application/models/InternetquelleMapper.php on line 34
+[22-Jun-2014 10:02:40 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:02:44 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:02:45 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:03:47 Europe/Berlin] QuellenangabenController::addAction::> 
+[22-Jun-2014 10:03:55 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:04:15 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:04:15 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => 
+    [url] => 
+    [idStudienarbeit] => 1
+    [submit] => Modul hinzufügen
+)
+
+[22-Jun-2014 10:08:42 Europe/Berlin] QuellenangabenController::addAction::> 
+[22-Jun-2014 10:08:46 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:08:46 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => sad
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:08:54 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:08:54 Europe/Berlin] PHP Notice:  Undefined index: submitInternet in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 36
+[22-Jun-2014 10:08:54 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:09:28 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:09:28 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:09:33 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:09:33 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:09:40 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:09:40 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:10:20 Europe/Berlin] QuellenangabenController::addAction::> 
+[22-Jun-2014 10:10:26 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:10:26 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:10:28 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:10:28 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:11:10 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:11:10 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:11:11 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:11:11 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:11:15 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:11:15 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => 
+    [url] => 
+    [idStudienarbeit] => 
+)
+
+[22-Jun-2014 10:12:09 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:12:09 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => ads
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:12:16 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:12:16 Europe/Berlin] QuellenangabenController::addAction::> litform
+[22-Jun-2014 10:12:19 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:12:19 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:20:11 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:20:11 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => asd
+    [url] => asd
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:20:11 Europe/Berlin] QuellenangabenController::addAction::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 1
+)
+
+[22-Jun-2014 10:20:30 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:20:30 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => qwr
+    [url] => qrrqqt
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:20:30 Europe/Berlin] QuellenangabenController::addAction::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 1
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:30:02 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => qwr
+    [url] => qrrqqt
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 1
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 2
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 3
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => sad
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 4
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 5
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => 
+    [_titel:protected] => 
+    [_idInternetquelle:protected] => 6
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => ads
+    [_idInternetquelle:protected] => 7
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 8
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 9
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => qwr
+    [_idInternetquelle:protected] => 10
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> #########
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> 10
+[22-Jun-2014 10:30:02 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => qwr
+    [_idInternetquelle:protected] => 10
+)
+
+[22-Jun-2014 10:30:02 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [0] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => asd
+            [_titel:protected] => asd
+            [_idInternetquelle:protected] => 1
+        )
+
+    [1] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => asd
+            [_titel:protected] => asd
+            [_idInternetquelle:protected] => 2
+        )
+
+    [2] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => asd
+            [_titel:protected] => asd
+            [_idInternetquelle:protected] => 3
+        )
+
+    [3] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => sad
+            [_titel:protected] => asd
+            [_idInternetquelle:protected] => 4
+        )
+
+    [4] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => asd
+            [_titel:protected] => asd
+            [_idInternetquelle:protected] => 5
+        )
+
+    [5] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => 
+            [_titel:protected] => 
+            [_idInternetquelle:protected] => 6
+        )
+
+    [6] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => asd
+            [_titel:protected] => ads
+            [_idInternetquelle:protected] => 7
+        )
+
+    [7] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => asd
+            [_titel:protected] => asd
+            [_idInternetquelle:protected] => 8
+        )
+
+    [8] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => asd
+            [_titel:protected] => asd
+            [_idInternetquelle:protected] => 9
+        )
+
+    [9] => Application_Model_Internetquelle Object
+        (
+            [_url:protected] => qrrqqt
+            [_titel:protected] => qwr
+            [_idInternetquelle:protected] => 10
+        )
+
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:30:33 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => qwr
+    [url] => qrrqqt
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 1
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 2
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 3
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => sad
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 4
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 5
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => 
+    [_titel:protected] => 
+    [_idInternetquelle:protected] => 6
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => ads
+    [_idInternetquelle:protected] => 7
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 8
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 9
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => qwr
+    [_idInternetquelle:protected] => 10
+)
+
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> #########
+[22-Jun-2014 10:30:33 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> 10
+[22-Jun-2014 10:30:33 Europe/Berlin] QuellenangabenController::addAction::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => qwr
+    [_idInternetquelle:protected] => 10
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:31:24 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => brAA
+    [url] => qrrqqt
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 1
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 2
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 3
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => sad
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 4
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 5
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => 
+    [_titel:protected] => 
+    [_idInternetquelle:protected] => 6
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => ads
+    [_idInternetquelle:protected] => 7
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 8
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => asd
+    [_titel:protected] => asd
+    [_idInternetquelle:protected] => 9
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => qwr
+    [_idInternetquelle:protected] => 10
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => brAA
+    [_idInternetquelle:protected] => 11
+)
+
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> #########
+[22-Jun-2014 10:31:24 Europe/Berlin] Application_Model_InternetquelleMapper::fetchLast::> 11
+[22-Jun-2014 10:31:24 Europe/Berlin] QuellenangabenController::addAction::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => brAA
+    [_idInternetquelle:protected] => 11
+)
+
+[22-Jun-2014 10:31:56 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:31:56 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => brAA
+    [url] => qrrqqt
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:40:26 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:40:26 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [titel] => brAA
+    [url] => qrrqqt
+    [idStudienarbeit] => 1
+)
+
+[22-Jun-2014 10:40:26 Europe/Berlin] QuellenangabenController::addAction::> Application_Model_Internetquelle Object
+(
+    [_url:protected] => qrrqqt
+    [_titel:protected] => brAA
+    [_idInternetquelle:protected] => 11
+)
+
+[22-Jun-2014 10:44:02 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:44:02 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+)
+
+[22-Jun-2014 10:44:21 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:44:21 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+)
+
+[22-Jun-2014 10:45:14 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:45:14 Europe/Berlin] QuellenangabenController::addAction::> 11
+[22-Jun-2014 10:45:14 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:45:14 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+)
+
+[22-Jun-2014 10:47:07 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:47:07 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+)
+
+[22-Jun-2014 10:47:12 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:47:12 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+)
+
+[22-Jun-2014 10:47:44 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:47:44 Europe/Berlin] Application_Model_StudienarbeitInternetquelleMapper::save::> Array
+(
+    [idStudienarbeit] => 1
+    [idInternetquelle] => 11
+)
+
+[22-Jun-2014 10:47:44 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+)
+
+[22-Jun-2014 10:49:01 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:49:01 Europe/Berlin] Application_Model_StudienarbeitInternetquelleMapper::save::> 1
+[22-Jun-2014 10:49:01 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+)
+
+[22-Jun-2014 10:50:42 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:50:42 Europe/Berlin] QuellenangabenController::addAction::> Array
+(
+    [0] => Application_Model_StudienarbeitInternetquelle Object
+        (
+            [_idStudienarbeit:protected] => 1
+            [_idInternetquelle:protected] => 11
+        )
+
+)
+
+[22-Jun-2014 10:50:48 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:51:33 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 10:51:43 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 11:13:35 Europe/Berlin] QuellenangabenController::addAction::> 
+[22-Jun-2014 11:13:43 Europe/Berlin] QuellenangabenController::addAction::> 1
+[22-Jun-2014 11:13:43 Europe/Berlin] PHP Notice:  Undefined offset: -1 in /Users/sebastianreinsch/www/esa3/application/models/InternetquelleMapper.php on line 79
+[22-Jun-2014 11:13:43 Europe/Berlin] PHP Fatal error:  Call to a member function getIdInternetquelle() on a non-object in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 49
+[22-Jun-2014 11:18:12 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Literatur::getId() in /Users/sebastianreinsch/www/esa3/application/models/LiteraturMapper.php on line 39
+[22-Jun-2014 11:21:36 Europe/Berlin] Application_Model_Literatur::getVerfasser::> 
+[22-Jun-2014 11:25:12 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_LiteraturMapper::fetchLast() in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 60
+[22-Jun-2014 11:26:24 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Internetquelle::setIdLiteratur() in /Users/sebastianreinsch/www/esa3/application/models/LiteraturMapper.php on line 85
+[22-Jun-2014 11:27:44 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Literatur::getIdInternetquelle() in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 66
+[22-Jun-2014 11:28:15 Europe/Berlin] PHP Catchable fatal error:  Argument 1 passed to Application_Model_StudienarbeitLiteraturMapper::save() must be an instance of Application_Model_StudienarbeitLiteratur, instance of Application_Model_Literatur given, called in /Users/sebastianreinsch/www/esa3/application/controllers/QuellenangabenController.php on line 69 and defined in /Users/sebastianreinsch/www/esa3/application/models/StudienarbeitLiteraturMapper.php on line 27
+[22-Jun-2014 14:08:09 Europe/Berlin] ModulController::singleAction::> Array
+(
+    [singleModul] => 1
+)
+
+[22-Jun-2014 14:08:34 Europe/Berlin] ModulController::singleAction::> 1
+[22-Jun-2014 14:13:39 Europe/Berlin] ModulController::singleAction::> Application_Model_Modul Object
+(
+    [_bezeichnung:protected] => asd
+    [_kurzbeschreibung:protected] => asdasd
+    [_semester:protected] => 2
+    [_dozent:protected] => awd aer
+    [_idModul:protected] => 1
+)
+
+[22-Jun-2014 14:13:41 Europe/Berlin] ModulController::singleAction::> Application_Model_Modul Object
+(
+    [_bezeichnung:protected] => asd
+    [_kurzbeschreibung:protected] => asdasd
+    [_semester:protected] => 2
+    [_dozent:protected] => awd aer
+    [_idModul:protected] => 1
+)
+
+[22-Jun-2014 14:20:38 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Studienarbeit::getBezeichnung() in /Users/sebastianreinsch/www/esa3/application/forms/SingleStudienarbeit.php on line 24
+[22-Jun-2014 14:21:32 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Studienarbeit::getBezeichnung() in /Users/sebastianreinsch/www/esa3/application/forms/SingleStudienarbeit.php on line 24
+[22-Jun-2014 14:24:53 Europe/Berlin] StudienarbeitController::singleAction::> Array
+(
+    [singleStudienarbeit] => 1
+)
+
+[22-Jun-2014 14:24:53 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Studienarbeit::getBezeichnung() in /Users/sebastianreinsch/www/esa3/application/views/scripts/studienarbeit/single.phtml on line 15
+[22-Jun-2014 14:25:13 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Studienarbeit::getBezeichnung() in /Users/sebastianreinsch/www/esa3/application/views/scripts/studienarbeit/single.phtml on line 15
+[22-Jun-2014 14:25:51 Europe/Berlin] PHP Fatal error:  Call to undefined method Application_Model_Studienarbeit::getKurzbeschreibung() in /Users/sebastianreinsch/www/esa3/application/views/scripts/studienarbeit/single.phtml on line 26
+[22-Jun-2014 14:33:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?>' in /Users/sebastianreinsch/www/esa3/application/views/scripts/modul/index.phtml on line 13
+[22-Jun-2014 14:54:40 Europe/Berlin] PHP Fatal error:  Class 'Application_Model_GuestbookMapper' not found in /Users/sebastianreinsch/www/esa3/application/controllers/GuestbookController.php on line 13

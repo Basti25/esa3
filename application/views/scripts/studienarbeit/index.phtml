@@ -1,0 +1,13 @@
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <h1>
+        Studienarbeiten:
+    </h1>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <?php foreach ($this->entries as $entry): ?>
+        <h2>
+            <?php echo $entry->getTitel(); ?>
+        </h2>
+        <hr/>
+    <?php endforeach ?>
+</div>

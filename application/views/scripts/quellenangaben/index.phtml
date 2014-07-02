@@ -1,0 +1,80 @@
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <h2>
+        Literatur:
+    </h2>
+    <?php foreach ($this->literatur as $entry): ?>
+        <h3>
+            <?php echo $entry->getBuchtitel(); ?>
+        </h3>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                Verfasser:
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <?php echo $entry->getVerfasser(); ?>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                Beitragstitel:
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <?php echo $entry->getBeitragstitel()?>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                Herausgeber:
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <?php echo $entry->getHerausgeber()?>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                Verlag:
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <?php echo $entry->getVerlag()?>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                Erscheinungsort:
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <?php echo $entry->getErscheinungsort()?>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                Erscheinungsjahr:
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <?php echo $entry->getErscheinungsjahr()?>
+            </div>
+        </div>
+        <hr/>
+    <?php endforeach ?>
+</div>
+
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <h2>
+        Internetquellen:
+    </h2>
+    <?php foreach ($this->internetquelle as $entry): ?>
+        <h3>
+            <?php echo $entry->getTitel(); ?>
+        </h3>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                Semester:
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <?php echo $entry->getUrl(); ?>
+            </div>
+        </div>
+        <hr/>
+    <?php endforeach ?>
+</div>
+
